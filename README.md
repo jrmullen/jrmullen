@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Jeremy 👋
+
+Hey, I'm Jeremy Mullen, Software Engineer at StockX.
+
+- 🌱 I’m currently learning TypeScript & studying algorithms
+- 💬 Ask me about anything [here](https://github.com/jrmullen/jrmullen/issues)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<!-- GitHub Stats Widgets -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple" alt="Jeremy's github stats" />
