@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-  <div class="columns">
-    <div class="one-half column block-blue p-3 border">
-      [![jrmullen's github stats](https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) 
-    </div>
-    <div class="one-half column block-blue p-3 border">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmullen&layout=compact&hide=css&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-  </div>
-
 [![jrmullen's github stats](https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmullen&layout=compact&hide=css&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
