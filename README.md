@@ -11,6 +11,10 @@
   <img align="left" alt="Jeremy Mullen | GitHub" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
 </a>
 
+<a href="https://twitter.com/jeremyrmullen">
+  <img align="left" alt="Jeremy Mullen | Twitter" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/twitter.svg" />
+</a>
+
 <a href="https://discord.gg/WAR9fDY">
   <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
 </a>
