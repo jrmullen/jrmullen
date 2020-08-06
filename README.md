@@ -15,6 +15,10 @@
   <img align="left" alt="Jeremy Mullen | Twitter" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/twitter.svg" />
 </a>
 
+<a href="https://open.spotify.com/user/zoidburg1234567890?si=O9E8W-82RdKjqiDfU1bgtA">
+  <img align="left" alt="Jeremy Mullen | Spotify" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/spotify.svg" />
+</a>
+
 <a href="https://discord.gg/WAR9fDY">
   <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
 </a>
