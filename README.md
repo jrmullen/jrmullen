@@ -17,7 +17,7 @@ Hey, I'm Jeremy Mullen, Software Engineer at StockX.
 
 
 <!-- GitHub Stats Widgets -->
-*NOTE: Top languages does not indicate skill level
+*NOTE: Top languages does not indicate skill level*
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
