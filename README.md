@@ -1,6 +1,22 @@
+<!-- Based off of https://github.com/anuraghazra/anuraghazra -->
+
 ### Hi there, I'm Jeremy 👋
 
+<!-- Icons from https://github.com/simple-icons/simple-icons/ -->
+<a href="https://www.linkedin.com/in/jeremy-mullen-09b251113/">
+  <img align="left" alt="Jeremy Mullen | LinkedIn" width="20px"  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+</a>
 
+<a href="https://github.com/jrmullen">
+  <img align="left" alt="Jeremy Mullen | GitHub" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
+</a>
+
+<a href="   ">
+  <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
+</a>
+
+<br/>
+<br/>
 
 Hey, I'm Jeremy Mullen, Software Engineer at StockX.
 
