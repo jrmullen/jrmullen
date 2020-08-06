@@ -11,7 +11,7 @@
   <img align="left" alt="Jeremy Mullen | GitHub" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
 </a>
 
-<a href="   ">
+<a href="Jreamy#7466">
   <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
 </a>
 
