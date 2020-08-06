@@ -17,7 +17,9 @@ Hey, I'm Jeremy Mullen, Software Engineer at StockX.
 
 
 <!-- GitHub Stats Widgets -->
-*NOTE: Top languages is not an indication my skill level, it's a github metric of which languages I have the most code on github*
+*NOTE: Top languages does not indicate skill level
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple" alt="Jeremy's github stats" />
 </a>
