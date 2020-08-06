@@ -15,6 +15,8 @@
   <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
 </a>
 
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:zoidburg1234567890&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 <br/>
 <br/>
 
