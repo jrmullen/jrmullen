@@ -30,6 +30,7 @@ Hey, I'm Jeremy Mullen, Software Engineer at StockX.
 
 - 🌱 I’m currently learning TypeScript & studying algorithms
 - 💬 Ask me about anything [here](https://github.com/jrmullen/jrmullen/issues)
+- 😄 Pronouns: He/Him
 
 
 **Languages and Tools:**  
