@@ -29,4 +29,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmullen&layout=compact&hide=css&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jrmullen&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jrmullen&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
