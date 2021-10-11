@@ -2,26 +2,13 @@
 
 ### Hi there, I'm Jeremy 👋
 
-<!-- Icons from https://github.com/simple-icons/simple-icons/ -->
-<a href="https://www.linkedin.com/in/jeremy-mullen-09b251113/">
-  <img align="left" alt="Jeremy Mullen | LinkedIn" width="20px"  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/jrmullen">
-  <img align="left" alt="Jeremy Mullen | GitHub" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
-</a>
-
-<a href="https://twitter.com/jeremyrmullen">
-  <img align="left" alt="Jeremy Mullen | Twitter" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/twitter.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/zoidburg1234567890?si=O9E8W-82RdKjqiDfU1bgtA">
-  <img align="left" alt="Jeremy Mullen | Spotify" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4b882220efc78dc824c7647a81b47dd1d4fdd3d8/icons/spotify.svg" />
-</a>
-
-<a href="https://discord.gg/WAR9fDY">
-  <img align="left" alt="Jeremy Mullen | Discord" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />
-</a>
+<-- Icons grabbed from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<p align="left">
+<a href="https://linkedin.com/in/jeremyrmullen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremyrmullen@gmail.com" height="30" width="40" /></a>
+<a href="https://discord.gg/WAR9fDY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WAR9fDY" height="30" width="40" /></a>
+<a href="https://twitter.com/jeremyrmullen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeremyrmullen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6348267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6348267" height="30" width="40" /></a>
+</p>
 
 <br/>
 <br/>
