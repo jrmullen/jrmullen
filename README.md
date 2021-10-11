@@ -24,15 +24,11 @@ Hey, I'm Jeremy Mullen, Software Engineer at StockX.
 <!-- GitHub Stats Widgets -->
 *NOTE: Top languages does not indicate skill level*
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmullen&count_private=true&show_icons=true&theme=shades-of-purple" alt="Jeremy's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmullen&layout=compact&hide=css&theme=shades-of-purple" alt="Jeremy's top languages" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrmullen&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmullen&layout=compact&hide=css&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jrmullen/jrmullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
