@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrmullen&label=Profile%20views&color=0e75b6&style=flat" alt="jrmullen" /> </p>
 
-### Hi there, I'm Jeremy, Software Engineer at StockX 👋
+### Hi there, I'm Jeremy, Senior Software Engineer at StockX 👋
 
 <!-- Icons grabbed from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <p align="left">
