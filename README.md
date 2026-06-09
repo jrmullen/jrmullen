@@ -10,7 +10,7 @@
     <a href="https://stackoverflow.com/users/6348267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6348267" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning Python & studying data structures and algorithms
+- 🌱 I’m currently learning Python & Go
 - 💬 Ask me about anything [here](https://github.com/jrmullen/jrmullen/issues)
 - 😄 Pronouns: He/Him
 
